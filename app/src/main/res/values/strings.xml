@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter">Enter</string>
+    <string name="tag_celcius">C</string>
+    <string name="humidity">humidity</string>
+    <string name="pressure">pressure</string>
+    <string name="visibility">visibility</string>
+    <string name="label_sunrise">Sunrise</string>
+    <string name="label_sunset">Sunset</string>
+    <string name="permission_already_granted">Permission already granted</string>
+    <string name="please_request_permission">Please request permission</string>
+    <string name="need_to_allow_Access">You need to allow access to both the permissions</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
